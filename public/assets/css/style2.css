@@ -1,0 +1,99 @@
+.hero-content h1 {
+    font-size: 50px;
+    line-height: 60px;
+    margin-bottom: 20px !important;
+    letter-spacing: -0.05em;
+}
+
+
+.testimonial-section-two {
+    position: relative;
+    z-index: 0; 
+}
+
+.pb-130 {
+    padding-bottom: 80px;
+}
+
+
+.solution-one_image-box .solution-img-one {
+    margin-top: 1%;
+    margin-left: auto;
+}
+
+
+.page-banner {
+    padding: 220px 0 180px;
+}
+
+
+
+
+element.style {
+}
+.banner-two .hero-content .shape-bg {
+    position: absolute;
+    top: 0;
+    left: -90px;
+    content: "";
+    width: 220px;
+    height: 100%;
+    background-color: #07396a;
+    z-index: -1;
+}
+
+.home-two .main-btn.btn-red {
+    background-color: #07396a;
+}
+
+
+.home-two .header-navigation .main-menu ul > li:hover > a {
+    color: #07396a;
+}
+
+.home-two .header-navigation .main-menu ul > li:hover > a :before {
+    color: #fe0002;
+}
+
+
+.home-two span.sub-title {
+    color: #fe0002;
+}
+
+.home-two .features-item-two .icon {
+    color: #fe0002;
+}
+
+.home-two .features-item-two:hover .icon {
+    background-color: #07396a;
+    color: #fff;
+}
+
+.home-two .features-item-two:hover .icon-btn {
+    background-color: #07396a;
+    color: #fff;
+}
+
+.home-two .service-item .hover-text {
+    background-color: #07396a;
+}
+
+.home-two .single-counter-item-two .text h2.number {
+    color: #fe0002;
+}
+
+.home-two .footer-content ul.social-link li a:hover {
+    background-color: #fe0002;
+}
+
+.home-two .footer-content ul.widget-nav li a:hover {
+    color: #fe0002;
+}
+
+.home-two .contact-info-box .icon i {
+    color: #fe0002;
+}
+
+.topbar-two .top-right .social-link li a:hover {
+    color: #07396a;
+}
